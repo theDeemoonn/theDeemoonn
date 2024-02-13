@@ -1,4 +1,4 @@
-## Fancy seeing you here! 👋
+## 👋 Fancy seeing you here! 
 
 ```javascript
 const deemoonn = {
@@ -10,7 +10,7 @@ const deemoonn = {
     about: "Hi. My name Dmitry. I Frontend developer. A tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas."
 }
 ```
-## Feel free to connect with me here: 📟
+## 📟 Feel free to connect with me here: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dmitry-zverev-5aa505234/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nembuta_to_me)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/theDeemoonn)
