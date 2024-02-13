@@ -3,7 +3,7 @@
 ```javascript
 const deemoonn = {
     pronouns: "He" | "Him", 
-    code: [Javascript, Typescript, HTML, CSS, ], 
+    code: [Javascript, Typescript, HTML, CSS], 
     tools: [React, NextJS, Redux, Node, Storybook, Styled-Components, Jest, Docker],
     mobileApp: [React Native, Expo],
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microfrontend"],
