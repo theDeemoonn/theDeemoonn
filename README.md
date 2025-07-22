@@ -4,7 +4,7 @@
 const deemoonn = {
     pronouns: "He" | "Him", 
     code: [JavaScript, TypeScript, Golang, HTML, CSS], 
-    tools: [React, NextJS, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+    tools: [React, NextJS, Redux, Node, NestJS, Storybook, Styled-Components, Jest, Docker],
     mobileApp: [ReactNative, Expo],
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microfrontend"],
     about: "Hi. My name Dmitry. I Frontend developer. A tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas."
